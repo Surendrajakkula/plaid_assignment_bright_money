@@ -38,6 +38,5 @@
 ```bash
 --- python manage.py runserver
 ```
-### API's Endpoint
-![path](https://user-images.githubusercontent.com/72928430/193238242-8b86be96-48ad-411f-8a00-26598eb0c463.png)
+
 
